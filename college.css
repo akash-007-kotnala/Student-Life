@@ -1,0 +1,29 @@
+*
+{
+  padding: 0;
+  margin:0;
+}
+body
+{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(ratio.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.main
+{
+  color: white;
+  font-family: "Roboto",sans-serif;
+  margin-left:90px;
+  margin-top:500px;
+  font-size: 20px;
+ 
+}
+.title
+{
+  margin-left: 90px;
+  margin-top: -720px;
+  color:white;
+  font-size: 30px;
+font-family: "Roboto",sans-serif;
+}
